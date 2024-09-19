@@ -1,0 +1,6 @@
+crewai
+langchain_google_genai
+langchain_groq
+langsmith
+crewai_tools
+streamlit
