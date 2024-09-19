@@ -7,9 +7,9 @@ from crewai import Task
 from langchain_groq import ChatGroq
 from crewai import Crew,Process
 
-from tools.browser_tools import BrowserTools
-from tools.calculator_tools import CalculatorTools
-from tools.search_tools import SearchTools
+from browser_tools import BrowserTools
+from calculator_tools import CalculatorTools
+from search_tools import SearchTools
 
 # LLM Monitering
 os.environ['LANGCHAIN_API_KEY']="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"
